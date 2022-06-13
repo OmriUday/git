@@ -1,0 +1,25 @@
+.content-container {
+  text-align: center;
+  z-index: 1;
+  color: white;
+  width:45%;
+}
+
+.landing-title {
+  font-size: 3rem;
+  font-weight: bold;
+  padding-bottom: 1rem;
+}
+
+.landing-content {
+  font-size:1.2rem;
+}
+
+
+.button-wrapper {
+  padding-top: 20px;
+}
+
+.button {
+
+}
