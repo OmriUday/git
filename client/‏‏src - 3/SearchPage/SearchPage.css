@@ -1,0 +1,55 @@
+.searchPage {
+  width: 100%;
+}
+
+.searchPage header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.searchPage header h1 {
+  margin-bottom: 0.1rem;
+  font-size:2rem;
+}
+
+.searchPage main {
+  border: 1px solid green;
+  width: 100%;
+  margin: auto;
+  display: flex;
+  align-items: stretch;
+}
+
+.queriesHistory {
+  border: 1px solid peru;
+}
+
+.searchResults {
+  border: 1px solid purple;
+}
+
+.searchPage main ul.topics {
+  list-style-type: none;
+  text-align: left;
+  margin-left: 22%;
+}
+
+.numberOfResults {
+  margin:0.2rem 0;
+}
+
+footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position:fixed;
+  bottom: 5%;
+  width: 100%;
+}
+
+.logo {
+  width:12%;
+  border-radius: 50%;
+  margin-top: 0
+}
